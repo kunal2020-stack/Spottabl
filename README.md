@@ -1,5 +1,3 @@
-# Spottabl
-
 To run the code follow the below written steps
 Method I
 
@@ -17,19 +15,17 @@ Method I
 12.	After this it automatically redirect you to your default browser with output
 
 
-                                                          OR
-
-
+                                                        OR
+                                                        
+                                                        
 Method II
 
-1.	Extract the “Back_end.zip” and remember the path.
-2.	Open the Eclipse ide.
-3.	Click on the file from the top left corner of ide click on import .
-4.	Select the path where you have extracted the zip file and click finish.
-5.	Now build the tomcat server (recommended version9.0 and above).
-6.	Run the project by right clicking in the code area and by selecting the run on server then select the project name and  finish.
-7.	After this it automatically redirect you to your default browser with output
 
-
-
-
+1.	Download the source from the github.
+2.	Extract the the downloaded file and remember the path.
+3.	Open the Eclipse ide.
+4.	Click on the file from the top left corner of ide click on import .
+5.	Select the path where you have extracted the zip file and click finish.
+6.	Now build the tomcat server (recommended version9.0 and above).
+7.	Run the project by right clicking in the code area and by selecting the run on server then select the project name and finish.
+8.	After this it automatically redirect you to your default browser with output
